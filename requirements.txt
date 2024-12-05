@@ -1,0 +1,8 @@
+# Required Python Packages
+1. speech_recognition
+2. pyttsx3
+3. pywhatkit
+4. datetime
+5. wikipedia
+6. pyjokes
+7. requests
