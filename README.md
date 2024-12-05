@@ -5,9 +5,9 @@ A voice assistant application inspired by Amazon Alexa designed to perform varie
 1. Voice Recognition
 2. Information retrieval
 3. Hands free player
-Programminng Language: Python
-Packages: Speech_recognition, pyaudio, pyttsx3, pywhatkit, pyjokes, datetime
-API Integrations: OpenWeather Map API
+4. Programminng Language: Python
+5. Packages: Speech_recognition, pyaudio, pyttsx3, pywhatkit, pyjokes, datetime
+6. API Integrations: OpenWeather Map API
 
 # Usage
 1. Run the my_own_alexa.py script
